@@ -34,6 +34,3 @@ name varchar(50));
  ('Bahodir');
 
  --after drop is used, there was not test-identity table anymore--
-
-
-
